@@ -1,0 +1,3 @@
+# Metadata
+
+Directory for metadata.

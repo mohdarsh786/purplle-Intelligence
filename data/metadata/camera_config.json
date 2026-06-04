@@ -1,0 +1,54 @@
+{
+  "cameras": [
+    {
+      "camera_id": "cam_1",
+      "name": "CAM 1",
+      "location": "TBD",
+      "fps": "TBD",
+      "resolution": "TBD",
+      "entry_direction": "TBD",
+      "active": true,
+      "video_source": "data/stores/store_1/videos/CAM 1 - zone.mp4"
+    },
+    {
+      "camera_id": "cam_2",
+      "name": "CAM 2",
+      "location": "TBD",
+      "fps": "TBD",
+      "resolution": "TBD",
+      "entry_direction": "TBD",
+      "active": true,
+      "video_source": "data/stores/store_1/videos/CAM 2 - zone.mp4"
+    },
+    {
+      "camera_id": "cam_3",
+      "name": "CAM 3",
+      "location": "TBD",
+      "fps": "TBD",
+      "resolution": "TBD",
+      "entry_direction": "TBD",
+      "active": true,
+      "video_source": "data/stores/store_1/videos/CAM 3 - entry.mp4"
+    },
+    {
+      "camera_id": "cam_4",
+      "name": "CAM 4",
+      "location": "TBD",
+      "fps": "TBD",
+      "resolution": "TBD",
+      "entry_direction": "TBD",
+      "active": false,
+      "video_source": "data/videos/CAM 4.mp4"
+    },
+    {
+      "camera_id": "cam_5",
+      "name": "CAM 5",
+      "location": "TBD",
+      "fps": "TBD",
+      "resolution": "TBD",
+      "entry_direction": "TBD",
+      "active": true,
+      "video_source": "data/stores/store_1/videos/CAM 5 - billing.mp4"
+    }
+  ]
+}

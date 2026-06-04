@@ -1,0 +1,50 @@
+{
+  "video_path": "data/stores/store_1/videos/CAM 3 - entry.mp4",
+  "max_frames": 600,
+  "stages": {
+    "video": {
+      "fps": 29.97002997002997,
+      "resolution": "1920x1080",
+      "total_frames": 4436,
+      "frames_to_process": 600
+    },
+    "processing": {
+      "frames_read": 600,
+      "frames_processed": 120,
+      "frame_skip": 5,
+      "elapsed_seconds": 13.94,
+      "fps": 8.61
+    },
+    "events_generated": {
+      "total": 3,
+      "by_type": {
+        "person_entered": 3
+      }
+    },
+    "redis_published": {
+      "status": "disabled",
+      "reason": "Redis not running or REDIS_ENABLED=false"
+    },
+    "consumer_processed": {
+      "consumed": 3,
+      "errors": 0,
+      "success_rate": 100.0
+    },
+    "database_stored": {
+      "event_count": 3,
+      "by_type": {
+        "person_entered": 3
+      }
+    },
+    "api_metrics": {
+      "total_entries": 3,
+      "total_exits": 0,
+      "unique_visitors": 3,
+      "currently_in_store": 0
+    }
+  },
+  "validation": "PASS",
+  "errors": [],
+  "redis_available": false,
+  "mismatches": []
+}

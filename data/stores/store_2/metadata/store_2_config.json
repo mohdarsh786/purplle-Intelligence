@@ -1,0 +1,11 @@
+{
+  "store_id": "store_2",
+  "videos": [
+    "entry 1.mp4",
+    "entry 2.mp4",
+    "zone.mp4",
+    "billing_area.mp4"
+  ],
+  "layout": "store 2 - layout.png",
+  "notes": "zone.mp4 is duplicated in both videos/ and zones/ directories. zones/zone.mp4 is a stray copy and should be removed."
+}

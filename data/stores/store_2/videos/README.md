@@ -1,0 +1,3 @@
+# Videos
+
+Directory for videos.

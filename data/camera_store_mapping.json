@@ -1,0 +1,84 @@
+{
+  "stores": {
+    "store_1": {
+      "name": "Brigade Road Store",
+      "cameras": [
+        {
+          "id": "cam1",
+          "name": "CAM 1 - Zone",
+          "path": "data/stores/store_1/videos/CAM 1 - zone.mp4",
+          "resolution": [1920, 1080],
+          "fps": 29.97,
+          "view_type": "product_zone",
+          "zones": ["shelf_top_left", "shelf_top_right", "fragrance_nail"]
+        },
+        {
+          "id": "cam2",
+          "name": "CAM 2 - Zone",
+          "path": "data/stores/store_1/videos/CAM 2 - zone.mp4",
+          "resolution": [1920, 1080],
+          "fps": 29.97,
+          "view_type": "product_zone",
+          "zones": ["shelf_bottom_left", "shelf_bottom_right", "makeup_mirror"]
+        },
+        {
+          "id": "cam3",
+          "name": "CAM 3 - Entry",
+          "path": "data/stores/store_1/videos/CAM 3 - entry.mp4",
+          "resolution": [1920, 1080],
+          "fps": 29.97,
+          "view_type": "entry_exit",
+          "zones": ["entry_zone", "exit_zone"]
+        },
+        {
+          "id": "cam5",
+          "name": "CAM 5 - Billing",
+          "path": "data/stores/store_1/videos/CAM 5 - billing.mp4",
+          "resolution": [1920, 1080],
+          "fps": 24.98,
+          "view_type": "checkout",
+          "zones": ["checkout_zone", "accessories"]
+        }
+      ]
+    },
+    "store_2": {
+      "name": "Store 2",
+      "cameras": [
+        {
+          "id": "entry1",
+          "name": "Entry 1",
+          "path": "data/stores/store_2/videos/entry 1.mp4",
+          "resolution": [960, 1080],
+          "fps": 25.0,
+          "view_type": "entry_exit",
+          "zones": ["entry_zone", "exit_zone"]
+        },
+        {
+          "id": "zone",
+          "name": "Zone",
+          "path": "data/stores/store_2/videos/zone.mp4",
+          "resolution": [960, 1080],
+          "fps": 25.0,
+          "view_type": "product_zone",
+          "zones": ["left_wall", "right_wall", "foh_aisle"]
+        },
+        {
+          "id": "billing",
+          "name": "Billing Area",
+          "path": "data/stores/store_2/videos/billing_area.mp4",
+          "resolution": [960, 1080],
+          "fps": 25.0,
+          "view_type": "checkout",
+          "zones": ["checkout_zone", "makeup_station"]
+        }
+      ]
+    }
+  },
+  "excluded_cameras": [
+    {
+      "id": "cam4",
+      "path": "data/videos/CAM 4.mp4",
+      "reason": "Back of house - staff only"
+    }
+  ]
+}

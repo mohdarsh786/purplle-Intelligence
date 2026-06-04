@@ -1,0 +1,38 @@
+{
+  "entry_zone": {
+    "polygon": [
+      [180, 480],
+      [780, 480],
+      [820, 1080],
+      [140, 1080]
+    ],
+    "owning_camera": "entry_1",
+    "type": "ENTRY",
+    "revenue": "no",
+    "description": "Glass doors entrance threshold (Primary)"
+  },
+  "exit_zone": {
+    "polygon": [
+      [180, 480],
+      [780, 480],
+      [820, 1080],
+      [140, 1080]
+    ],
+    "owning_camera": "entry_1",
+    "type": "EXIT",
+    "revenue": "no",
+    "description": "Glass doors exit threshold (Primary)"
+  },
+  "checkout_zone": {
+    "polygon": [
+      [0, 580],
+      [560, 580],
+      [600, 1080],
+      [0, 1080]
+    ],
+    "owning_camera": "billing_area",
+    "type": "BILLING",
+    "revenue": "yes",
+    "description": "Cash Counter area"
+  }
+}

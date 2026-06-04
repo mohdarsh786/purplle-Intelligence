@@ -1,0 +1,54 @@
+[
+  {
+    "event_id": "evt_001",
+    "event_type": "person_entered",
+    "track_id": 104,
+    "timestamp": "2026-03-08T18:30:01Z",
+    "frame_no": 1,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {}
+  },
+  {
+    "event_id": "evt_002",
+    "event_type": "zone_dwell_start",
+    "track_id": 104,
+    "timestamp": "2026-03-08T18:30:15Z",
+    "frame_no": 150,
+    "zone": "product_zone_1",
+    "dwell_seconds": null,
+    "metadata": {}
+  },
+  {
+    "event_id": "evt_003",
+    "event_type": "zone_dwell_end",
+    "track_id": 104,
+    "timestamp": "2026-03-08T18:31:45Z",
+    "frame_no": 1050,
+    "zone": "product_zone_1",
+    "dwell_seconds": 90.0,
+    "metadata": {
+      "dwell_duration_seconds": 90.0
+    }
+  },
+  {
+    "event_id": "evt_004",
+    "event_type": "queue_detected",
+    "track_id": 104,
+    "timestamp": "2026-03-08T18:32:00Z",
+    "frame_no": 1200,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {}
+  },
+  {
+    "event_id": "evt_005",
+    "event_type": "person_exited",
+    "track_id": 104,
+    "timestamp": "2026-03-08T18:32:45Z",
+    "frame_no": 1650,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {}
+  }
+]

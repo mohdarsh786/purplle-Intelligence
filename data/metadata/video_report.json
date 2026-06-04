@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-06-02T11:02:57Z",
+  "total_videos": 5,
+  "videos": [
+    {
+      "filename": "CAM 1.mp4",
+      "filepath": "data\\videos\\CAM 1.mp4",
+      "fps": 29.97,
+      "width": 1920,
+      "height": 1080,
+      "frame_count": 4193,
+      "duration_seconds": 139.91,
+      "file_size_mb": 171.92,
+      "codec": "h264"
+    },
+    {
+      "filename": "CAM 2.mp4",
+      "filepath": "data\\videos\\CAM 2.mp4",
+      "fps": 29.97,
+      "width": 1920,
+      "height": 1080,
+      "frame_count": 3774,
+      "duration_seconds": 125.93,
+      "file_size_mb": 154.71,
+      "codec": "h264"
+    },
+    {
+      "filename": "CAM 3.mp4",
+      "filepath": "data\\videos\\CAM 3.mp4",
+      "fps": 29.97,
+      "width": 1920,
+      "height": 1080,
+      "frame_count": 4436,
+      "duration_seconds": 148.01,
+      "file_size_mb": 182.0,
+      "codec": "h264"
+    },
+    {
+      "filename": "CAM 4.mp4",
+      "filepath": "data\\videos\\CAM 4.mp4",
+      "fps": 24.98,
+      "width": 1920,
+      "height": 1080,
+      "frame_count": 3647,
+      "duration_seconds": 145.99,
+      "file_size_mb": 69.9,
+      "codec": "hevc"
+    },
+    {
+      "filename": "CAM 5.mp4",
+      "filepath": "data\\videos\\CAM 5.mp4",
+      "fps": 24.98,
+      "width": 1920,
+      "height": 1080,
+      "frame_count": 3465,
+      "duration_seconds": 138.7,
+      "file_size_mb": 69.87,
+      "codec": "hevc"
+    }
+  ]
+}

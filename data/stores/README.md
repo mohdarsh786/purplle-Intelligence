@@ -1,0 +1,3 @@
+# Stores
+
+Directory for stores.

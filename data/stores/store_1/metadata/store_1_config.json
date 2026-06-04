@@ -1,0 +1,11 @@
+{
+  "store_id": "store_1",
+  "videos": [
+    "CAM 1 - zone.mp4",
+    "CAM 2 - zone.mp4",
+    "CAM 3 - entry.mp4",
+    "CAM 5 - billing.mp4"
+  ],
+  "layout": "Store 1 - layout.png",
+  "notes": "CAM 1 and CAM 2 are currently misplaced in zones/ directory instead of videos/. Requires manual correction."
+}

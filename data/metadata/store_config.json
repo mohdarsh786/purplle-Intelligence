@@ -1,0 +1,11 @@
+{
+  "store_name": "Brigade Road",
+  "city": "Bangalore",
+  "checkout_zone": "checkout_zone",
+  "entry_zone": "entry_zone",
+  "exit_zone": "exit_zone",
+  "store_open_time": "TBD",
+  "store_close_time": "TBD",
+  "queue_threshold": "TBD",
+  "crowd_threshold": "TBD"
+}

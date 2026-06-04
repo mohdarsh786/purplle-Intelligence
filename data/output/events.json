@@ -1,0 +1,1634 @@
+[
+  {
+    "event_id": "evt_ae3e13272311",
+    "event_type": "person_entered",
+    "track_id": 1,
+    "timestamp": "2026-04-10T16:45:00Z",
+    "frame_no": 10,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3676,
+      "bbox": [
+        1498,
+        167,
+        1876,
+        819
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_e484299a486f",
+    "event_type": "zone_dwell_start",
+    "track_id": 1,
+    "timestamp": "2026-04-10T16:45:00Z",
+    "frame_no": 10,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3676,
+      "bbox": [
+        1498,
+        167,
+        1876,
+        819
+      ]
+    }
+  },
+  {
+    "event_id": "evt_6d0b2f5a707d",
+    "event_type": "queue_detected",
+    "track_id": 1,
+    "timestamp": "2026-04-10T16:45:00Z",
+    "frame_no": 10,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3676,
+      "bbox": [
+        1498,
+        167,
+        1876,
+        819
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_74366826159d",
+    "event_type": "zone_dwell_end",
+    "track_id": 1,
+    "timestamp": "2026-04-10T16:45:01Z",
+    "frame_no": 30,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_0c9c86f20844",
+    "event_type": "person_exited",
+    "track_id": 1,
+    "timestamp": "2026-04-10T16:45:01Z",
+    "frame_no": 30,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_ccc448e87d3c",
+    "event_type": "person_entered",
+    "track_id": 2,
+    "timestamp": "2026-04-10T16:45:01Z",
+    "frame_no": 40,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3813,
+      "bbox": [
+        1552,
+        115,
+        1920,
+        704
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_0fc411f7a085",
+    "event_type": "zone_dwell_start",
+    "track_id": 2,
+    "timestamp": "2026-04-10T16:45:01Z",
+    "frame_no": 40,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3813,
+      "bbox": [
+        1552,
+        115,
+        1920,
+        704
+      ]
+    }
+  },
+  {
+    "event_id": "evt_84c23d18de71",
+    "event_type": "queue_detected",
+    "track_id": 2,
+    "timestamp": "2026-04-10T16:45:01Z",
+    "frame_no": 40,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3813,
+      "bbox": [
+        1552,
+        115,
+        1920,
+        704
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_79dd68aca7d5",
+    "event_type": "zone_dwell_end",
+    "track_id": 2,
+    "timestamp": "2026-04-10T16:45:02Z",
+    "frame_no": 60,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_af622724b889",
+    "event_type": "person_exited",
+    "track_id": 2,
+    "timestamp": "2026-04-10T16:45:02Z",
+    "frame_no": 60,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_9f6975c070e0",
+    "event_type": "person_entered",
+    "track_id": 9,
+    "timestamp": "2026-04-10T16:45:05Z",
+    "frame_no": 160,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5877,
+      "bbox": [
+        186,
+        0,
+        378,
+        422
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_15c18387f7d8",
+    "event_type": "zone_dwell_start",
+    "track_id": 9,
+    "timestamp": "2026-04-10T16:45:05Z",
+    "frame_no": 160,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5877,
+      "bbox": [
+        186,
+        0,
+        378,
+        422
+      ]
+    }
+  },
+  {
+    "event_id": "evt_61f373ed2905",
+    "event_type": "zone_dwell_end",
+    "track_id": 9,
+    "timestamp": "2026-04-10T16:45:07Z",
+    "frame_no": 210,
+    "zone": "entry_zone",
+    "dwell_seconds": 1.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 1.67
+    }
+  },
+  {
+    "event_id": "evt_c2136e5c2c2e",
+    "event_type": "person_exited",
+    "track_id": 9,
+    "timestamp": "2026-04-10T16:45:07Z",
+    "frame_no": 210,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 1.67
+    }
+  },
+  {
+    "event_id": "evt_8c764211e022",
+    "event_type": "zone_dwell_start",
+    "track_id": 9,
+    "timestamp": "2026-04-10T16:45:07Z",
+    "frame_no": 220,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4097,
+      "bbox": [
+        190,
+        0,
+        384,
+        422
+      ]
+    }
+  },
+  {
+    "event_id": "evt_f4996c15f286",
+    "event_type": "person_entered",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:28Z",
+    "frame_no": 840,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4157,
+      "bbox": [
+        1571,
+        464,
+        1920,
+        1063
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_75061311fe2f",
+    "event_type": "zone_dwell_start",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:28Z",
+    "frame_no": 840,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4157,
+      "bbox": [
+        1571,
+        464,
+        1920,
+        1063
+      ]
+    }
+  },
+  {
+    "event_id": "evt_5c084a8a66f8",
+    "event_type": "queue_detected",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:28Z",
+    "frame_no": 840,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4157,
+      "bbox": [
+        1571,
+        464,
+        1920,
+        1063
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_7c7e87efd0b1",
+    "event_type": "zone_dwell_end",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:28Z",
+    "frame_no": 850,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_33d7d8234389",
+    "event_type": "person_exited",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:28Z",
+    "frame_no": 850,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_853e9a66978c",
+    "event_type": "person_entered",
+    "track_id": 13,
+    "timestamp": "2026-04-10T16:45:30Z",
+    "frame_no": 900,
+    "zone": "product_zone_1",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6427,
+      "bbox": [
+        609,
+        0,
+        732,
+        240
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_a86bb63bbd1c",
+    "event_type": "zone_dwell_start",
+    "track_id": 13,
+    "timestamp": "2026-04-10T16:45:30Z",
+    "frame_no": 900,
+    "zone": "product_zone_1",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6427,
+      "bbox": [
+        609,
+        0,
+        732,
+        240
+      ]
+    }
+  },
+  {
+    "event_id": "evt_1a255d92c36b",
+    "event_type": "person_entered",
+    "track_id": 14,
+    "timestamp": "2026-04-10T16:45:31Z",
+    "frame_no": 950,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7702,
+      "bbox": [
+        1326,
+        145,
+        1882,
+        855
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_15f0e108fa4e",
+    "event_type": "zone_dwell_start",
+    "track_id": 14,
+    "timestamp": "2026-04-10T16:45:31Z",
+    "frame_no": 950,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7702,
+      "bbox": [
+        1326,
+        145,
+        1882,
+        855
+      ]
+    }
+  },
+  {
+    "event_id": "evt_b9f7a8bca842",
+    "event_type": "queue_detected",
+    "track_id": 14,
+    "timestamp": "2026-04-10T16:45:31Z",
+    "frame_no": 950,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7702,
+      "bbox": [
+        1326,
+        145,
+        1882,
+        855
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_460929a69e62",
+    "event_type": "zone_dwell_end",
+    "track_id": 13,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 990,
+    "zone": "product_zone_1",
+    "dwell_seconds": 3.0,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 3.0
+    }
+  },
+  {
+    "event_id": "evt_ff2123f51e4c",
+    "event_type": "person_exited",
+    "track_id": 13,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 990,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 3.0
+    }
+  },
+  {
+    "event_id": "evt_a103dcb137d6",
+    "event_type": "zone_dwell_start",
+    "track_id": 10,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 1000,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5731,
+      "bbox": [
+        1561,
+        517,
+        1908,
+        1074
+      ]
+    }
+  },
+  {
+    "event_id": "evt_67a4f9952df2",
+    "event_type": "zone_dwell_start",
+    "track_id": 13,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 1000,
+    "zone": "product_zone_1",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.724,
+      "bbox": [
+        621,
+        0,
+        757,
+        243
+      ]
+    }
+  },
+  {
+    "event_id": "evt_15d7d46660ea",
+    "event_type": "zone_dwell_end",
+    "track_id": 14,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 1000,
+    "zone": "checkout_zone",
+    "dwell_seconds": 1.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 1.67
+    }
+  },
+  {
+    "event_id": "evt_08b0564fe0a4",
+    "event_type": "person_exited",
+    "track_id": 14,
+    "timestamp": "2026-04-10T16:45:33Z",
+    "frame_no": 1000,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 1.67
+    }
+  },
+  {
+    "event_id": "evt_86070a9527a3",
+    "event_type": "person_entered",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:48Z",
+    "frame_no": 1460,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6656,
+      "bbox": [
+        1533,
+        49,
+        1873,
+        625
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_2854231ede63",
+    "event_type": "zone_dwell_start",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:48Z",
+    "frame_no": 1460,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6656,
+      "bbox": [
+        1533,
+        49,
+        1873,
+        625
+      ]
+    }
+  },
+  {
+    "event_id": "evt_3bca0a4c6477",
+    "event_type": "queue_detected",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:48Z",
+    "frame_no": 1460,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6656,
+      "bbox": [
+        1533,
+        49,
+        1873,
+        625
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_dac6df9accf2",
+    "event_type": "zone_dwell_end",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1470,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_2e1c7dda8b02",
+    "event_type": "person_exited",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1470,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_f78c35025052",
+    "event_type": "person_entered",
+    "track_id": 18,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1480,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7447,
+      "bbox": [
+        1028,
+        536,
+        1819,
+        1069
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_4a86df72f8ef",
+    "event_type": "zone_dwell_start",
+    "track_id": 18,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1480,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7447,
+      "bbox": [
+        1028,
+        536,
+        1819,
+        1069
+      ]
+    }
+  },
+  {
+    "event_id": "evt_5b23ea96b327",
+    "event_type": "queue_detected",
+    "track_id": 18,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1480,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7447,
+      "bbox": [
+        1028,
+        536,
+        1819,
+        1069
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_ba062ab4b08d",
+    "event_type": "zone_dwell_start",
+    "track_id": 15,
+    "timestamp": "2026-04-10T16:45:49Z",
+    "frame_no": 1480,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4869,
+      "bbox": [
+        1633,
+        88,
+        1901,
+        541
+      ]
+    }
+  },
+  {
+    "event_id": "evt_af4b28389be3",
+    "event_type": "zone_dwell_end",
+    "track_id": 18,
+    "timestamp": "2026-04-10T16:45:50Z",
+    "frame_no": 1520,
+    "zone": "checkout_zone",
+    "dwell_seconds": 1.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 1.33
+    }
+  },
+  {
+    "event_id": "evt_ad43d1bfc443",
+    "event_type": "person_exited",
+    "track_id": 18,
+    "timestamp": "2026-04-10T16:45:50Z",
+    "frame_no": 1520,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 1.33
+    }
+  },
+  {
+    "event_id": "evt_1869a7e6eb6b",
+    "event_type": "person_entered",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:51Z",
+    "frame_no": 1530,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5903,
+      "bbox": [
+        1364,
+        117,
+        1726,
+        764
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_083c27fc2912",
+    "event_type": "zone_dwell_start",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:51Z",
+    "frame_no": 1530,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5903,
+      "bbox": [
+        1364,
+        117,
+        1726,
+        764
+      ]
+    }
+  },
+  {
+    "event_id": "evt_0b2f36b2a552",
+    "event_type": "queue_detected",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:51Z",
+    "frame_no": 1530,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5903,
+      "bbox": [
+        1364,
+        117,
+        1726,
+        764
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_bd0c7ee431f6",
+    "event_type": "zone_dwell_end",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:51Z",
+    "frame_no": 1540,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_f0b7b5f59a39",
+    "event_type": "person_exited",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:51Z",
+    "frame_no": 1540,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_2e0c0edb4f0d",
+    "event_type": "person_entered",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:45:52Z",
+    "frame_no": 1570,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3762,
+      "bbox": [
+        1577,
+        380,
+        1892,
+        1067
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_a4aba77fd21b",
+    "event_type": "zone_dwell_start",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:45:52Z",
+    "frame_no": 1570,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3762,
+      "bbox": [
+        1577,
+        380,
+        1892,
+        1067
+      ]
+    }
+  },
+  {
+    "event_id": "evt_45e1aae3be04",
+    "event_type": "queue_detected",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:45:52Z",
+    "frame_no": 1570,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3762,
+      "bbox": [
+        1577,
+        380,
+        1892,
+        1067
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_1d5a66dda6db",
+    "event_type": "zone_dwell_end",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:45:52Z",
+    "frame_no": 1580,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_72896e24774f",
+    "event_type": "person_exited",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:45:52Z",
+    "frame_no": 1580,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_011d9b3b81bd",
+    "event_type": "zone_dwell_start",
+    "track_id": 19,
+    "timestamp": "2026-04-10T16:45:55Z",
+    "frame_no": 1670,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.678,
+      "bbox": [
+        1257,
+        343,
+        1644,
+        1029
+      ]
+    }
+  },
+  {
+    "event_id": "evt_483d300827af",
+    "event_type": "zone_dwell_start",
+    "track_id": 20,
+    "timestamp": "2026-04-10T16:46:00Z",
+    "frame_no": 1810,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6047,
+      "bbox": [
+        1602,
+        263,
+        1899,
+        889
+      ]
+    }
+  },
+  {
+    "event_id": "evt_9f51bc98cfb4",
+    "event_type": "person_entered",
+    "track_id": 31,
+    "timestamp": "2026-04-10T16:46:11Z",
+    "frame_no": 2150,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3823,
+      "bbox": [
+        176,
+        1,
+        367,
+        428
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_b16ec6ca4b52",
+    "event_type": "zone_dwell_start",
+    "track_id": 31,
+    "timestamp": "2026-04-10T16:46:11Z",
+    "frame_no": 2150,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.3823,
+      "bbox": [
+        176,
+        1,
+        367,
+        428
+      ]
+    }
+  },
+  {
+    "event_id": "evt_14fa6468cd66",
+    "event_type": "person_entered",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:15Z",
+    "frame_no": 2260,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6839,
+      "bbox": [
+        1468,
+        276,
+        1920,
+        1020
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_d408bcc1f89e",
+    "event_type": "zone_dwell_start",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:15Z",
+    "frame_no": 2260,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6839,
+      "bbox": [
+        1468,
+        276,
+        1920,
+        1020
+      ]
+    }
+  },
+  {
+    "event_id": "evt_f9faf0cc36e2",
+    "event_type": "queue_detected",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:15Z",
+    "frame_no": 2260,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6839,
+      "bbox": [
+        1468,
+        276,
+        1920,
+        1020
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_e5accf1a5572",
+    "event_type": "zone_dwell_end",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:15Z",
+    "frame_no": 2270,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_6e19472797b9",
+    "event_type": "person_exited",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:15Z",
+    "frame_no": 2270,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_e698e3cf3cc7",
+    "event_type": "zone_dwell_end",
+    "track_id": 31,
+    "timestamp": "2026-04-10T16:46:19Z",
+    "frame_no": 2390,
+    "zone": "entry_zone",
+    "dwell_seconds": 8.01,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 8.01
+    }
+  },
+  {
+    "event_id": "evt_f7ac44c32afd",
+    "event_type": "person_exited",
+    "track_id": 31,
+    "timestamp": "2026-04-10T16:46:19Z",
+    "frame_no": 2390,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 8.01
+    }
+  },
+  {
+    "event_id": "evt_1d060f8dbe5f",
+    "event_type": "zone_dwell_start",
+    "track_id": 31,
+    "timestamp": "2026-04-10T16:46:20Z",
+    "frame_no": 2410,
+    "zone": "entry_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6282,
+      "bbox": [
+        169,
+        0,
+        371,
+        428
+      ]
+    }
+  },
+  {
+    "event_id": "evt_e1e5a3cd64cb",
+    "event_type": "person_entered",
+    "track_id": 34,
+    "timestamp": "2026-04-10T16:46:24Z",
+    "frame_no": 2540,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6812,
+      "bbox": [
+        1181,
+        587,
+        1823,
+        1071
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_6676c53c7e27",
+    "event_type": "zone_dwell_start",
+    "track_id": 34,
+    "timestamp": "2026-04-10T16:46:24Z",
+    "frame_no": 2540,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6812,
+      "bbox": [
+        1181,
+        587,
+        1823,
+        1071
+      ]
+    }
+  },
+  {
+    "event_id": "evt_c218deb446e6",
+    "event_type": "queue_detected",
+    "track_id": 34,
+    "timestamp": "2026-04-10T16:46:24Z",
+    "frame_no": 2540,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6812,
+      "bbox": [
+        1181,
+        587,
+        1823,
+        1071
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_7ba51f9156ce",
+    "event_type": "zone_dwell_start",
+    "track_id": 33,
+    "timestamp": "2026-04-10T16:46:25Z",
+    "frame_no": 2560,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.4621,
+      "bbox": [
+        1410,
+        394,
+        1793,
+        975
+      ]
+    }
+  },
+  {
+    "event_id": "evt_73806a71835e",
+    "event_type": "zone_dwell_end",
+    "track_id": 34,
+    "timestamp": "2026-04-10T16:46:25Z",
+    "frame_no": 2560,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_0f8f429e3659",
+    "event_type": "person_exited",
+    "track_id": 34,
+    "timestamp": "2026-04-10T16:46:25Z",
+    "frame_no": 2560,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_cf536f1d8baf",
+    "event_type": "person_entered",
+    "track_id": 38,
+    "timestamp": "2026-04-10T16:46:36Z",
+    "frame_no": 2890,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7649,
+      "bbox": [
+        1568,
+        395,
+        1895,
+        1065
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_48a6c380c93d",
+    "event_type": "zone_dwell_start",
+    "track_id": 38,
+    "timestamp": "2026-04-10T16:46:36Z",
+    "frame_no": 2890,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7649,
+      "bbox": [
+        1568,
+        395,
+        1895,
+        1065
+      ]
+    }
+  },
+  {
+    "event_id": "evt_f6fdf407da9c",
+    "event_type": "queue_detected",
+    "track_id": 38,
+    "timestamp": "2026-04-10T16:46:36Z",
+    "frame_no": 2890,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.7649,
+      "bbox": [
+        1568,
+        395,
+        1895,
+        1065
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_0fdb152fc503",
+    "event_type": "zone_dwell_end",
+    "track_id": 38,
+    "timestamp": "2026-04-10T16:46:37Z",
+    "frame_no": 2910,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_61d818defa23",
+    "event_type": "person_exited",
+    "track_id": 38,
+    "timestamp": "2026-04-10T16:46:37Z",
+    "frame_no": 2910,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_5028c75a17a7",
+    "event_type": "person_entered",
+    "track_id": 39,
+    "timestamp": "2026-04-10T16:46:41Z",
+    "frame_no": 3050,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5777,
+      "bbox": [
+        1474,
+        234,
+        1877,
+        826
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_f8fea8b70725",
+    "event_type": "zone_dwell_start",
+    "track_id": 39,
+    "timestamp": "2026-04-10T16:46:41Z",
+    "frame_no": 3050,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5777,
+      "bbox": [
+        1474,
+        234,
+        1877,
+        826
+      ]
+    }
+  },
+  {
+    "event_id": "evt_33e53bbaaa9e",
+    "event_type": "queue_detected",
+    "track_id": 39,
+    "timestamp": "2026-04-10T16:46:41Z",
+    "frame_no": 3050,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5777,
+      "bbox": [
+        1474,
+        234,
+        1877,
+        826
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_1af82d8696cf",
+    "event_type": "person_entered",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:42Z",
+    "frame_no": 3070,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.8597,
+      "bbox": [
+        390,
+        710,
+        874,
+        1073
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_6e577cdc8e4d",
+    "event_type": "zone_dwell_start",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:42Z",
+    "frame_no": 3070,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.8597,
+      "bbox": [
+        390,
+        710,
+        874,
+        1073
+      ]
+    }
+  },
+  {
+    "event_id": "evt_b51d70f8d1a1",
+    "event_type": "zone_dwell_end",
+    "track_id": 39,
+    "timestamp": "2026-04-10T16:46:45Z",
+    "frame_no": 3160,
+    "zone": "checkout_zone",
+    "dwell_seconds": 3.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 3.67
+    }
+  },
+  {
+    "event_id": "evt_6f3fb3242588",
+    "event_type": "person_exited",
+    "track_id": 39,
+    "timestamp": "2026-04-10T16:46:45Z",
+    "frame_no": 3160,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 3.67
+    }
+  },
+  {
+    "event_id": "evt_a9a7daba5fc2",
+    "event_type": "zone_dwell_end",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:51Z",
+    "frame_no": 3340,
+    "zone": "exit_zone",
+    "dwell_seconds": 9.01,
+    "metadata": {
+      "confidence": 0.636,
+      "bbox": [
+        408,
+        771,
+        913,
+        1075
+      ],
+      "dwell_duration_seconds": 9.01
+    }
+  },
+  {
+    "event_id": "evt_f37cee0a5400",
+    "event_type": "zone_dwell_start",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:51Z",
+    "frame_no": 3340,
+    "zone": "product_zone_2",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.636,
+      "bbox": [
+        408,
+        771,
+        913,
+        1075
+      ]
+    }
+  },
+  {
+    "event_id": "evt_d3e854771830",
+    "event_type": "zone_dwell_end",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:51Z",
+    "frame_no": 3350,
+    "zone": "product_zone_2",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_7ec00a0e37c9",
+    "event_type": "person_exited",
+    "track_id": 40,
+    "timestamp": "2026-04-10T16:46:51Z",
+    "frame_no": 3350,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_df8db4d0c69f",
+    "event_type": "person_entered",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:17Z",
+    "frame_no": 4120,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.8636,
+      "bbox": [
+        1334,
+        119,
+        1751,
+        754
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_25cca1971f49",
+    "event_type": "zone_dwell_start",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:17Z",
+    "frame_no": 4120,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.8636,
+      "bbox": [
+        1334,
+        119,
+        1751,
+        754
+      ]
+    }
+  },
+  {
+    "event_id": "evt_cccf13edee2c",
+    "event_type": "queue_detected",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:17Z",
+    "frame_no": 4120,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.8636,
+      "bbox": [
+        1334,
+        119,
+        1751,
+        754
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_684c7ad10aa6",
+    "event_type": "zone_dwell_end",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:19Z",
+    "frame_no": 4180,
+    "zone": "checkout_zone",
+    "dwell_seconds": 2.0,
+    "metadata": {
+      "confidence": 0.6655,
+      "bbox": [
+        1067,
+        634,
+        1395,
+        1080
+      ],
+      "dwell_duration_seconds": 2.0
+    }
+  },
+  {
+    "event_id": "evt_a90f18a5c59c",
+    "event_type": "zone_dwell_start",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:19Z",
+    "frame_no": 4180,
+    "zone": "product_zone_2",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.6655,
+      "bbox": [
+        1067,
+        634,
+        1395,
+        1080
+      ]
+    }
+  },
+  {
+    "event_id": "evt_46bdcf5efd89",
+    "event_type": "zone_dwell_end",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:19Z",
+    "frame_no": 4190,
+    "zone": "product_zone_2",
+    "dwell_seconds": 0.33,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_b96a23c7aedb",
+    "event_type": "person_exited",
+    "track_id": 47,
+    "timestamp": "2026-04-10T16:47:19Z",
+    "frame_no": 4190,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.33
+    }
+  },
+  {
+    "event_id": "evt_426ab21b07b8",
+    "event_type": "person_entered",
+    "track_id": 57,
+    "timestamp": "2026-04-10T16:47:25Z",
+    "frame_no": 4360,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5438,
+      "bbox": [
+        1380,
+        155,
+        1741,
+        924
+      ],
+      "direction": "inward"
+    }
+  },
+  {
+    "event_id": "evt_1c2ee2f45dbd",
+    "event_type": "zone_dwell_start",
+    "track_id": 57,
+    "timestamp": "2026-04-10T16:47:25Z",
+    "frame_no": 4360,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5438,
+      "bbox": [
+        1380,
+        155,
+        1741,
+        924
+      ]
+    }
+  },
+  {
+    "event_id": "evt_fcfda6c1c6a8",
+    "event_type": "queue_detected",
+    "track_id": 57,
+    "timestamp": "2026-04-10T16:47:25Z",
+    "frame_no": 4360,
+    "zone": "checkout_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.5438,
+      "bbox": [
+        1380,
+        155,
+        1741,
+        924
+      ],
+      "queue_position": 0,
+      "queue_size_estimate": 0
+    }
+  },
+  {
+    "event_id": "evt_7e3f21be6df4",
+    "event_type": "zone_dwell_end",
+    "track_id": 57,
+    "timestamp": "2026-04-10T16:47:26Z",
+    "frame_no": 4380,
+    "zone": "checkout_zone",
+    "dwell_seconds": 0.67,
+    "metadata": {
+      "confidence": 0.0,
+      "dwell_duration_seconds": 0.67
+    }
+  },
+  {
+    "event_id": "evt_b2fd13122975",
+    "event_type": "person_exited",
+    "track_id": 57,
+    "timestamp": "2026-04-10T16:47:26Z",
+    "frame_no": 4380,
+    "zone": "exit_zone",
+    "dwell_seconds": null,
+    "metadata": {
+      "confidence": 0.0,
+      "total_journey_seconds": 0.67
+    }
+  }
+]

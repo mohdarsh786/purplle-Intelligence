@@ -1,0 +1,38 @@
+{
+  "entry_zone": {
+    "polygon": [
+      [480, 650],
+      [1440, 650],
+      [1520, 1080],
+      [400, 1080]
+    ],
+    "owning_camera": "cam_3",
+    "type": "ENTRY",
+    "revenue": "no",
+    "description": "Glass entrance door threshold area"
+  },
+  "exit_zone": {
+    "polygon": [
+      [480, 650],
+      [1440, 650],
+      [1520, 1080],
+      [400, 1080]
+    ],
+    "owning_camera": "cam_3",
+    "type": "EXIT",
+    "revenue": "no",
+    "description": "Glass entrance door threshold area (directional checkout/leave)"
+  },
+  "checkout_zone": {
+    "polygon": [
+      [0, 620],
+      [880, 620],
+      [920, 1080],
+      [0, 1080]
+    ],
+    "owning_camera": "cam_5",
+    "type": "BILLING",
+    "revenue": "yes",
+    "description": "Cash Counter cash desk area"
+  }
+}
